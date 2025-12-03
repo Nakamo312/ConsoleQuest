@@ -18,6 +18,7 @@ charcater1.Inventory.AddItem(item);
 
 Shop shop1 = new Shop();
 
+// Новая строчка
 charcater1.Print();
 charcater1.Inventory.Display();
 
