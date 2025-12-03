@@ -16,7 +16,7 @@ charcater1.Inventory.AddItem(item);
 charcater1.Inventory.AddItem(item);
 charcater1.Inventory.AddItem(item);
 
-Shop shop1 = new Shop(charcater1, character2);
+Shop shop1 = new Shop();
 
 charcater1.Print();
 charcater1.Inventory.Display();
